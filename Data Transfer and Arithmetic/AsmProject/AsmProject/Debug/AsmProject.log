@@ -1,0 +1,2 @@
+﻿asmlib.lib(asmLibC.obj) : warning LNK4099: PDB '' was not found with 'asmlib.lib(asmLibC.obj)' or at ''; linking object as if no debug info
+  AsmProject.vcxproj -> C:\Users\Clayton\Desktop\Assembly Hwk\Data Transfer and Arithmetic\AsmProject\Debug\AsmProject.exe
